@@ -1,0 +1,9 @@
+# Data files (not versioned; folders are kept via .gitkeep)
+*.txt
+*.tsv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
